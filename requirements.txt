@@ -1,0 +1,5 @@
+# Pinned for Python 3.11 on Windows. Install only this OpenCV distribution.
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+pytest==8.4.2

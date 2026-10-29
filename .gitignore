@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test and cache files
+.pytest_cache/
+.coverage
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local recordings
+*.mp4
+*.mkv
+*.mov
